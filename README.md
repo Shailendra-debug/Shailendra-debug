@@ -38,7 +38,7 @@
 
 </p>
 
-<br><br><br>
+<br>
 
 ## 📊 Competitive Programming
 
