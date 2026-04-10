@@ -1,26 +1,101 @@
+<h1 align="center">Hi 👋, I'm Shailendra Kushwaha</h1>
+<h3 align="center">🚀 Full Stack Developer | Android Developer | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shailendra-debug&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+* 🎓 B.Tech Student at **AIMT**
+* 💼 2+ years of experience in **end-to-end development**
+* 🧠 Solved **700+ problems** on GeeksforGeeks
+* ⚡ Strong in **Java, Spring Boot, Backend Systems**
+* 📱 Building advanced Android apps like **Sun Call**
+* 🌱 Currently learning **DSA & System Design**
+* 🎯 Goal: Become a **top backend engineer**
+
+---
+
 ## 🛠️ Tech Stack
 
-💻 **Languages**
-![Java](https://img.shields.io/badge/JAVA-DA8A2E?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4A6C8C?style=for-the-badge)
+<p align="center">
 
-🚀 **Backend**
-![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-E86A3C?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+<b>💻 Languages</b><br/> <img src="https://img.shields.io/badge/JAVA-DA8A2E?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-4A6C8C?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-🌐 **Frontend**
-![React](https://img.shields.io/badge/REACT-1E1E1E?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-D94F2A?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-3C6EA8?style=for-the-badge)
+<br/><br/>
 
-📱 **Mobile**
-![Android](https://img.shields.io/badge/ANDROID-63C47D?style=for-the-badge)
+<b>🚀 Backend</b><br/> <img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
-☁️ **Tools & Platforms**
-![Git](https://img.shields.io/badge/GIT-E15A3C?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GITHUB-2C0D0D?style=for-the-badge)
-![Postman](https://img.shields.io/badge/POSTMAN-E86A3C?style=for-the-badge)
-![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-E38B3C?style=for-the-badge)
-![Render](https://img.shields.io/badge/RENDER-6ED3B5?style=for-the-badge)
+<br/><br/>
+
+<b>🌐 Frontend</b><br/> <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<br/><br/>
+
+<b>📱 Mobile</b><br/> <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+
+<br/><br/>
+
+<b>☁️ Tools & Platforms</b><br/> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/> <img src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+
+</p>
+
+
+## 📊 Competitive Programming
+
+| Platform         | Problems Solved |
+| ---------------- | --------------- |
+| 🟢 GeeksforGeeks | 700+            |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shailendra-debug&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shailendra-debug&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shailendra-debug&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendra-debug&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Shailendra-debug">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💡 I love building real-world projects and solving complex backend problems 🚀
+
+---
+
+<p align="center">
+  🔥 <b>Code. Build. Solve. Repeat.</b> 🔥
+</p>
