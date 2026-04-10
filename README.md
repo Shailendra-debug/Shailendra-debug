@@ -37,14 +37,31 @@
 <b>☁️ Tools & Platforms</b><br/><br/> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/> <img src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 
 </p>
-add sum margin form top br
+
+<br><br><br>
+
 ## 📊 Competitive Programming
 
-| Platform         | Problems Solved |
-| ---------------- | --------------- |
-| 🟢 GeeksforGeeks | 700+            |
+<p align="center">
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-700%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
+</p>
+
+<br/>
+
+### 📈 Progress Overview
+
+| 🚀 Platform      | 🧠 Problems Solved | 🔗 Profile                                     |
+| ---------------- | ------------------ | ---------------------------------------------- |
+| 🟢 GeeksforGeeks | **700+**           | [View Profile](https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions/) |
 
 ---
+
+<p align="center">
+  💡 <i>Consistent problem solving builds strong logic & coding skills</i>
+</p>
+
 
 ## 📈 GitHub Stats
 
