@@ -56,7 +56,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shailendra-debug&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shailendra-debug&theme=tokyonight" />
+ // <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shailendra-debug&theme=tokyonight" />
 </p>
 
 
@@ -66,7 +66,7 @@
   <a href="https://github.com/Shailendra-debug">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:shailendrakushwaha732@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
