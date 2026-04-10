@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👋 Hi, I'm Shailendra (Sailendra)
 
-<!--
-**Shailendra-debug/Shailendra-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | Android Developer | Problem Solver
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 🎓 B.Tech Student at **AIMT**
+* 💼 2+ years experience in **end-to-end development**
+* 📱 Building Android app **Sun Call** (advanced dialer with smart features)
+* ⚡ Strong in **Java, Spring Boot, Backend Systems**
+* 🧠 Currently learning **DSA & System Design**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+* Java ☕
+* JavaScript ⚡
+* SQL 🗄️
+
+### 🚀 Backend
+
+* Spring Boot 🌱
+* REST APIs 🔗
+* JWT Authentication 🔐
+
+### 🌐 Frontend
+
+* HTML, CSS, JavaScript
+* Basic React
+
+### 📱 Mobile Development
+
+* Android (Java)
+* Speech-to-Text Integration
+* Offline Features
+
+### ☁️ Tools & Platforms
+
+* Git & GitHub
+* Render (Deployment)
+* Cloudflare
+* Postman
+
+---
+
+## 🔥 Projects
+
+### 📞 Sun Call (Android App)
+
+* Advanced Dialer App
+* Call Scheduling
+* Secure Call Handling
+* Speech-to-Text
+* Works Offline
+
+---
+
+## 📊 GitHub Stats
+
+![Shailendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shailendra-debug\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+* 💻 GitHub: https://github.com/Shailendra-debug
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+## ⚡ Fun Fact
+
+I love building real-world projects and solving complex backend problems 🚀
