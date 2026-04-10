@@ -18,7 +18,6 @@
 * 🎯 Goal: Become a **top backend engineer**
 
 ---
-<br><br>
 
 ## 🛠️ Tech Stack
 
@@ -26,24 +25,24 @@
 
 <b>💻 Languages</b><br/> <img src="https://img.shields.io/badge/JAVA-DA8A2E?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-4A6C8C?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 <b>🚀 Backend</b><br/> <img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 <b>🌐 Frontend</b><br/> <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 <b>📱 Mobile</b><br/> <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 <b>☁️ Tools & Platforms</b><br/> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/> <img src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 
 </p>
-
+add sum margin form top br
 ## 📊 Competitive Programming
 
 | Platform         | Problems Solved |
