@@ -23,7 +23,7 @@
 
 <p align="center">
 
-<b>💻 Languages</b><br/> <img src="https://img.shields.io/badge/JAVA-DA8A2E?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-4A6C8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+<b>💻 Languages</b><br/><br/> <img src="https://img.shields.io/badge/JAVA-DA8A2E?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-4A6C8C?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br/>
 
