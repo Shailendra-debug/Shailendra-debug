@@ -64,7 +64,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shailendra-debug&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shailendra-debug&theme=onedark&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -72,10 +72,17 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendra-debug&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailendra-debug&layout=compact&theme=onedark&hide_border=true" />
 </p>
 
 ---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shailendra-debug&show_icons=true&theme=onedark&hide_border=true" />
+</p>
+
 
 ## 🌐 Connect With Me
 
