@@ -54,10 +54,10 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shailendra-debug&show_icons=true&theme=tokyonight" />
  // <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shailendra-debug&theme=tokyonight" />
-</p>
+</p> -->
 
 
 ## 🌐 Connect With Me
